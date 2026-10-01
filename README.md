@@ -29,10 +29,15 @@
 
 | Integrante | RA | Papel na entrega |
 |---|---|---|
-| _[Nome completo]_ | _[RA]_ | _[ex.: levantamento de requisitos]_ |
-| _[Nome completo]_ | _[RA]_ | _[ex.: fluxogramas]_ |
-| _[Nome completo]_ | _[RA]_ | _[ex.: DER e dicionário de dados]_ |
-| _[Nome completo]_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _Ismael Aparecido da Silva_ | _47347899_ | _[ex.: levantamento de requisitos]_ |
+| _Israel Aparecido da Silva_ | _[RA]_ | _[ex.: fluxogramas]_ |
+| _Renan da Silva Queiroz_ | _[RA]_ | _[ex.: DER e dicionário de dados]_ |
+| _Matheus Pereira de Carvalho Santos_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _Diego Blanco Simara Estorce_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _juliana de sousa nascimento_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _Lucas Henrique Ribeiro Lima_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _Henry de Araujo Fernandes_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| _yuri silvério gomes_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
 
 **Startup:** Code e Corte
 **Disciplina:** Projeto Integrador — Modelagem de Dados
