@@ -2,7 +2,7 @@
 
 Este documento é a versão revisada do **DER lógico v2**. Ele parte do DER conceitual (Figma), das correções pedidas na devolutiva da 1ª entrega e dos documentos de correção do grupo (pagamentos, comissões, gestão financeira e mensalidades). O script que implementa tudo isto é [`sql/ddl/01_criar_banco_e_tabelas.sql`](../sql/ddl/01_criar_banco_e_tabelas.sql).
 
-**Notação das tabelas:** **negrito** = chave primária · `→ TABELA` = chave estrangeira · `UK` = valor único · chave composta entre parênteses.
+**Notação das tabelas:** `**campo**` (entre asteriscos) = chave primária · `→ TABELA` = chave estrangeira · `UK` = valor único · chave composta entre parênteses.
 
 **Sumário**
 
@@ -393,7 +393,7 @@ O arquivo do Figma agora tem o **DER v4**, que segue este modelo e está dividid
 
 Entidades de outro módulo aparecem com borda tracejada, só como referência. A legenda traz a notação e as fórmulas dos atributos derivados.
 
-O quadro "DER Chen v3" continua no arquivo apenas como registro da versão anterior e **não vale mais**: ele ainda mostra `contas_pagar`, `MENSALIDADE`, `trabalha em` como (1,1) e `gera` como (0,1). Falta exportar os quadros do v4 em PNG para `docs/diagramas/`; por enquanto só o módulo de unidades e agenda está lá ([`der-v4-unidades-equipe-agenda.png`](diagramas/der-v4-unidades-equipe-agenda.png)).
+O quadro "DER Chen v3" continua no arquivo apenas como registro da versão anterior e **não vale mais**: ele ainda mostra `contas_pagar`, `MENSALIDADE`, `trabalha em` como (1,1) e `gera` como (0,1). Os quatro módulos do v4 estão exportados em PNG e SVG em [`docs/diagramas/`](diagramas/) e aparecem na seção 16 do [README](../README.md). A versão anterior do DER (1ª entrega original) foi guardada em `docs/versao-anterior/` só como registro.
 
 **Documentos do grupo**
 1. **"Políticas organizacionais" e "Resumo — Mensalidades"** ainda descrevem o modelo de faixas (R$ 150, R$ 270 e R$ 350 por clientes distintos, vencimento no dia 10). Precisam ser reescritos para os planos. O resumo também trata o ajuste como diferença em reais compensada no mês seguinte, o que não se aplica a um plano de preço fixo: aqui o ajuste corrige a contagem semanal.
