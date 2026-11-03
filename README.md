@@ -27,17 +27,17 @@
 
 ## 1. Identificação da equipe
 
-| Integrante | RA | Papel na entrega |
+| Integrante | RGM | Papel na entrega |
 |---|---|---|
-| _Ismael Aparecido da Silva_ | _47347899_ | _[ex.: levantamento de requisitos]_ |
-| _Israel Aparecido da Silva_ | _[RA]_ | _[ex.: fluxogramas]_ |
-| _Renan da Silva Queiroz_ | _[RA]_ | _[ex.: DER e dicionário de dados]_ |
-| _Matheus Pereira de Carvalho Santos_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
-| _Diego Blanco Simara Estorce_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
-| _juliana de sousa nascimento_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
-| _Lucas Henrique Ribeiro Lima_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
-| _Henry de Araujo Fernandes_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
-| _yuri silvério gomes_ | _[RA]_ | _[ex.: revisão e justificativas]_ |
+| Ismael Aparecido da Silva | 47347899 | Entidades e chaves primárias |
+| Israel Aparecido da Silva | 47370602 | Cardinalidade e restrições |
+| Renan da Silva Queiroz | 048932728 | Chaves primárias e estrangeiras |
+| Matheus Pereira de Carvalho Santos | 47383232 | Relacionamentos e consultas |
+| Diego Blanco Simara Estorce | 47377348 | Tabelas e integridade associativa |
+| Juliana de Sousa Nascimento | 47382643 | Regras de negócio e documentação |
+| Lucas Henrique Ribeiro Lima | 47366095 | Entidades associativas e possíveis entidades fracas |
+| Henry de Araujo Fernandes | 47113511 | DER e tabelas |
+| Yuri Silvério Gomes | 49503154 | Requisitos e atributos |
 
 **Startup:** Code e Corte
 **Disciplina:** Projeto Integrador — Modelagem de Dados
