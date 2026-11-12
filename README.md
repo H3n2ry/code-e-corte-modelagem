@@ -4,6 +4,9 @@
 
 **Sumário**
 
+links: https://www.figma.com/design/BaQfFR5K265S28annEMLHj/Code-e-Corte-%E2%80%94-DER?node-id=0-1&t=bY3cPZW4q4gjBAvZ-1
+       https://canva.link/d6tg9f1z0x3c8oq
+
 1. [Identificação da equipe](#1-identificação-da-equipe)
 2. [Caracterização da empresa](#2-caracterização-da-empresa)
 3. [Justificativa da escolha](#3-justificativa-da-escolha)
